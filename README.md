@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abbassadri786
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning c/c++,Data structures & Algorithm
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C/C++,Data Structures & Algorithm
 - 📫 How to reach me abbassadri786@gmail.com
 
 <!---
