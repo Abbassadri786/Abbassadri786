@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abbassadri786
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C/C++,Data Structures & Algorithm
-- 📫 How to reach me abbassadri786@gmail.com
+- 👀 I’m interested in c++ and Python Programming.
+- 🌱 I’m currently learning Data Structures & Algorithm.
+- 📫 How to reach me:- abbassadri786@gmail.com
 
 <!---
 Abbassadri786/Abbassadri786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
