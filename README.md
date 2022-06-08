@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abbassadri786
-- 👀 I’m interested in c++ and Python Programming.
+- 👀 I’m interested in Front End Development & C++ Programming.
 - 🌱 I’m currently learning Data Structures & Algorithm.
 - 📫 How to reach me:- abbassadri786@gmail.com
 
