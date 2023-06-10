@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abbassadri786
-- 👀 I’m interested in Web Development & C++ Programming.
-- 🌱 I’m currently learning Data Structures & Algorithm.
+- 👀 I’m interested in Web Development, C++ and Java Programming.
+- 🌱 I’m currently learning Data Structures & Algorithm, DBMS, Operating Systems.
 - 📫 How to reach me:- abbassadri786@gmail.com
 
 <!---
