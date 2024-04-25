@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1ILVemMzgZ7bjb_uWJif1KOku7rJz7mLt/view?usp=sharing)
 
-- ⚡ Fun fact **Experienced working with teams to produce impactful, leading-edge websites that engage customers and deliver business results.**
+- ⚡ Fun fact **Solved around 500+ DSA questions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
