@@ -17,13 +17,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/saminem-15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/saminem-15" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abbas-s-0a9522225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abbas-s-0a9522225" height="30" width="40" /></a>
-<a href="https://instagram.com/abbas._.15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abbas._.15" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abbassadri5099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abbassadri5099" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abbassadri786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abbassadri786" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abbassadri786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abbassadri786" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abbassadri786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abbassadri786" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abbassadri786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abbassadri786" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abbas-s-0a9522225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abbas-s-0a9522225" height="30" width="40" /></a>
+<a href="https://instagram.com/abbas._.15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abbas._.15" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/saminem-15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/saminem-15" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/abbassadri5099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abbassadri5099" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
