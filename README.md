@@ -1,115 +1,69 @@
 <h1 align="center">Hi 👋, I'm Abbas Sadriwala</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abbassadri786&label=Profile%20views&color=0e75b6&style=flat" alt="abbassadri786" /> </p>
-
-- 🔭 I’m currently working on [The Time Tracker](https://abbassadri786.github.io/The-Time-Tracker/)
-
-- 🌱 I’m currently learning **React js , Node js**
-
-- 💬 Ask me about **React js , Javascript , Node js**
-
-- 📫 How to reach me **abbassadri786@gmail.com**
-
-- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1ILVemMzgZ7bjb_uWJif1KOku7rJz7mLt/view?usp=sharing)
-
-- ⚡ Fun fact **Solved around 500+ DSA questions.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/abbassadri786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abbassadri786" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abbassadri786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abbassadri786" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abbassadri786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abbassadri786" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abbas-s-0a9522225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abbas-s-0a9522225" height="30" width="40" /></a>
-<a href="https://instagram.com/abbas._.15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abbas._.15" height="30" width="40" /></a>
-<a href="https://codepen.io/https://codepen.io/saminem-15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/saminem-15" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abbassadri5099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abbassadri5099" height="30" width="40" /></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abbassadri786&label=Profile%20views&color=0e75b6&style=flat-square" alt="abbassadri786" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <!-- C Programming -->
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    <!-- C++ -->
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <!-- JavaScript -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <!-- React JS -->
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <!-- Node.js -->
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <!-- HTML -->
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <!-- CSS -->
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    </a>
-    <!-- MySQL -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <!-- PostgreSQL -->
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-    </a>
-    <!-- Bootstrap -->
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
-    <!-- Arduino -->
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-    </a>
-    <!-- Postman -->
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a>
-    <!-- Remaining skills, maintaining an order based on general usage and popularity -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-    </a>
-    <a href="https://zapier.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
-    </a>
+<p align="center">
+  <a href="https://github.com/abbassadri786/The-Time-Tracker"><img src="https://img.shields.io/badge/Currently_Working-The_Time_Tracker-brightgreen?style=for-the-badge&logo=github" alt="The Time Tracker"></a>
+  <a href="mailto:abbassadri786@gmail.com"><img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://drive.google.com/file/d/1ILVemMzgZ7bjb_uWJif1KOku7rJz7mLt/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-ff69b4?style=for-the-badge&logo=google-drive" alt="My_Resume"></a>
+</p>
+
+- 🌱 I’m currently learning **React.js, Node.js**
+
+- 💬 Ask me about **React.js, JavaScript, Node.js**
+
+- ⚡ Fun fact: **I've solved over 500+ DSA questions.**
+
+- <h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <!-- Icons with badges style for consistency -->
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=matlab&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier"/>
+</p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.leetcode.com/abbassadri786" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-abbassadri786-orange?style=flat-square&logo=leet-code" alt="abbassadri786" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/abbassadri786" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksForGeeks-abbassadri786-0f9d58?style=flat-square&logo=geeksforgeeks" alt="abbassadri786" /></a>
+  <a href="https://www.hackerrank.com/abbassadri786" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-abbassadri786-green?style=flat-square&logo=hackerrank" alt="abbassadri786" /></a>
+  <a href="https://linkedin.com/in/abbas-s-0a9522225" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-abbas--s--0a9522225-blue?style=flat-square&logo=linkedin" alt="abbas-s-0a9522225" /></a>
+  <a href="https://instagram.com/abbas._.15" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-abbas.__.15-c13584?style=flat-square&logo=instagram" alt="abbas._.15" /></a>
+  <a href="https://www.youtube.com/c/abbassadri5099" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-abbassadri5099-red?style=flat-square&logo=youtube" alt="abbassadri5099" /></a>
 </p>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbassadri786&show_icons=true&locale=en&layout=compact" alt="abbassadri786" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbassadri786&show_icons=true&locale=en" alt="abbassadri786" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbassadri786&" alt="abbassadri786" /></p>
+<!-- GitHub Stats Visualization -->
+<div align="center">
+  <!-- Top Languages Card with custom theme -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbassadri786&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F9826C&icon_color=FAD000" alt="abbassadri786's Top Languages" />
+</div>
+<div align="center">
+  <!-- GitHub Stats Card with corrected parameters -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abbassadri786&show_icons=true&locale=en" alt="abbassadri786" />
+</div>
+<div align="center">
+  <!-- GitHub Streak Stats with custom theme -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbassadri786&theme=dark&background=0D1117&stroke=FAD000&ring=F9826C&fire=FAD000&currStreakNum=FAD000&sideNums=FAD000&currStreakLabel=F9826C&sideLabels=F9826C&dates=FFFFFF" alt="abbassadri786's GitHub Streak Stats" />
+</div>
