@@ -49,8 +49,6 @@
   <a href="https://auth.geeksforgeeks.org/user/abbassadri786" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksForGeeks-abbassadri786-0f9d58?style=flat-square&logo=geeksforgeeks" alt="abbassadri786" /></a>
   <a href="https://www.hackerrank.com/abbassadri786" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-abbassadri786-green?style=flat-square&logo=hackerrank" alt="abbassadri786" /></a>
   <a href="https://linkedin.com/in/abbas-s-0a9522225" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-abbas--s--0a9522225-blue?style=flat-square&logo=linkedin" alt="abbas-s-0a9522225" /></a>
-  <a href="https://instagram.com/abbas._.15" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-abbas.__.15-c13584?style=flat-square&logo=instagram" alt="abbas._.15" /></a>
-  <a href="https://www.youtube.com/c/abbassadri5099" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-abbassadri5099-red?style=flat-square&logo=youtube" alt="abbassadri5099" /></a>
 </p>
 
 
