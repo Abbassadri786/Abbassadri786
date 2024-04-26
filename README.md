@@ -11,13 +11,13 @@
   <a href="https://drive.google.com/file/d/1ILVemMzgZ7bjb_uWJif1KOku7rJz7mLt/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-ff69b4?style=for-the-badge&logo=google-drive" alt="My_Resume"></a>
 </p>
 
-- 🌱 I’m currently learning **React.js, Node.js**
+  🌱 I’m currently learning **React.js, Node.js**
 
-- 💬 Ask me about **React.js, JavaScript, Node.js**
+  💬 Ask me about **React.js, JavaScript, Node.js**
 
-- ⚡ Fun fact: **I've solved over 500+ DSA questions.**
+  ⚡ Fun fact: **I've solved over 500+ DSA questions.**
 
-- <h3 align="center">Languages and Tools:</h3>
+  <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <!-- Icons with badges style for consistency -->
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
