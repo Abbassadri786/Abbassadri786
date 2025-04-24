@@ -11,9 +11,9 @@
   <a href="https://drive.google.com/file/d/1ILVemMzgZ7bjb_uWJif1KOku7rJz7mLt/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-ff69b4?style=for-the-badge&logo=google-drive" alt="My_Resume"></a>
 </p>
 
-  🌱 I’m currently learning **React.js, Node.js**
+  🌱 I’m currently learning **Next.js, Java-Spring Boot, AWS**
 
-  💬 Ask me about **React.js, JavaScript, Node.js**
+  💬 Ask me about **Spring Boot, React.js, JavaScript, Node.js**
 
   ⚡ Fun fact: **I've solved over 500+ DSA questions.**
 
