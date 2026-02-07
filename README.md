@@ -11,9 +11,9 @@
   <a href="https://drive.google.com/file/d/1ILVemMzgZ7bjb_uWJif1KOku7rJz7mLt/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-ff69b4?style=for-the-badge&logo=google-drive" alt="My_Resume"></a>
 </p>
 
-  🧠 My Interest **RAG Pipelines, LLM orchestration, Cloud/AWS**
+  🧠 My Interest: **RAG Pipelines, LLM orchestration, Cloud/AWS**
 
-  ⚙️ Tech Stack **FastAPI, Django, Spring Boot, Node.js, React.js**
+  ⚙️ Tech Stack: **FastAPI, Django, Spring Boot, Node.js, React.js**
 
   ⚡ Fun fact: **I've solved over 600+ DSA questions.**
 
