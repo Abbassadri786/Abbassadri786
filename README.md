@@ -48,16 +48,5 @@
 
 <!-- GitHub Stats Visualization -->
 <div align="center">
-  <!-- Top Languages Card with custom theme -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbassadri786&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F9826C&icon_color=FAD000" alt="abbassadri786's Top Languages" />
-</div>
-<div align="center">
-  <!-- GitHub Stats Card with corrected parameters -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abbassadri786&show_icons=true&locale=en" alt="abbassadri786" />
-</div>
-<div align="center">
-  <!-- GitHub Streak Stats with custom theme -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbassadri786&theme=dark&background=0D1117&stroke=FAD000&ring=F9826C&fire=FAD000&currStreakNum=FAD000&sideNums=FAD000&currStreakLabel=F9826C&sideLabels=F9826C&dates=FFFFFF" alt="abbassadri786's GitHub Streak Stats" />
-
   ⭐ If you like my work, consider starring my repositories!
 </div>
