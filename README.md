@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abbas Sadriwala</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=abbassadri786&label=Profile%20views&color=0e75b6&style=flat-square" alt="abbassadri786" />
@@ -11,11 +11,13 @@
   <a href="https://drive.google.com/file/d/1ILVemMzgZ7bjb_uWJif1KOku7rJz7mLt/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-ff69b4?style=for-the-badge&logo=google-drive" alt="My_Resume"></a>
 </p>
 
+  🔗 Full Stack Developer @Genpact
+  
   🧠 My Interest: **RAG Pipelines, LLM orchestration, Cloud/AWS**
 
   ⚙️ Tech Stack: **FastAPI, Django, Spring Boot, Node.js, React.js**
 
-  ⚡ Fun fact: **I've solved over 600+ DSA questions.**
+  🏆 Fun fact: **I've solved over 600+ DSA questions.**
 
   <h3 align="center">Languages and Tools:</h3>
   <p align="center">
